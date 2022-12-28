@@ -1,0 +1,19 @@
+Age : 
+Gender : binary 
+Polyuria : increase in urine
+Polydipsia: increse in thirst
+sudden weight loss
+weakness  : binary 
+Polyphagia : increase in apetite
+Genital thrush : fungi 
+visual blurring : 
+Itching : 
+Irritability :
+delayed healing :
+partial paresis
+muscle stiffness
+Alopecia : kapal jharne 
+Obesity
+class
+
+
