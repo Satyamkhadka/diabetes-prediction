@@ -13,3 +13,4 @@ Although the models are highly accurate, it is advised to visit a registered doc
   ```
   
 contact me : contact@satyamkhadka.com.np
+project for datamining@NWPU 
